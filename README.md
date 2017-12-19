@@ -1,4 +1,4 @@
 # invie-github
 curso de github de platzi
-#autor
+# autor
 Jhon Alexander Leon Ortecho
